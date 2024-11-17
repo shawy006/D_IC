@@ -1,5 +1,10 @@
 # D_IC
 
+
+
+Q1) Fabrication, basics of mos capacitor, mosfet and transfer char of cmos, load line analysis(cmos) and trip point analysis(short ch,long ch)
+
+
 Certainly! Let's dive deeper into each of these topics, elaborating on the points to a much greater depth, covering four times the previous details for each section.
 
 ---
