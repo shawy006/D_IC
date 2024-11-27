@@ -4,7 +4,6 @@
 
 
 
-Thank you for the clarification! Let's now expand the explanation for the **32-bit GCD** evaluator and **Booth Multiplier** design using **32-bit inputs** in a **digital design lab** context, as well as the simulation process in **Xilinx Vivado**.
 
 ### **1. 32-bit GCD Evaluator using Repeated Subtraction Algorithm**
 
