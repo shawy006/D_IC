@@ -153,7 +153,8 @@ By implementing and simulating the **32-bit GCD evaluator** using the **repeated
 
 The use of **Xilinx Vivado** for **behavioral simulation** and **verification** ensures the correctness of the designs before implementing them on an FPGA. This hands-on experience is critical for understanding both **data path** and **control unit design**, as well as performing thorough **functional verification** to meet design specifications.
 
-Let me know if you need further details or examples!
+
+
 
 
 
