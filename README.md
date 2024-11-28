@@ -2,6 +2,22 @@
 
 
 
+
+
+5. Comparison Between Long and Short Loops in Dual-Loop OEOs
+Long Loop:
+
+Narrower bandwidth due to the long delay line.
+Improves frequency stability and phase noise suppression at low-offset frequencies.
+Dominant in setting the oscillation frequency.
+Short Loop:
+
+Wider bandwidth as the delay line is much shorter.
+Suppresses phase noise at high-offset frequencies (away from the carrier).
+Provides faster response to disturbances.
+
+
+trade offs
 ### **1. Phase Noise vs. Loop Bandwidth**
 
 #### **Trade-Off Explanation**
